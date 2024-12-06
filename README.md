@@ -16,7 +16,7 @@
 
 ## 📈Leetcode Stats
 
-![](https://leetcard.jacoblin.cool/dZ9QEk44Re?ext=heatmap)
+![](https://leetcard.jacoblin.cool/dZ9QEk44Re?theme=dark&hide_border=true&ext=heatmap)
 
 
 
