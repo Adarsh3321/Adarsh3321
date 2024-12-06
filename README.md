@@ -15,14 +15,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh3321&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 📈Leetcode Stats
-<!--
+
 ![](https://leetcard.jacoblin.cool/dZ9QEk44Re?ext=heatmap)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dZ9QEk44Re?theme=wtf&font=Caveat%20Brush&ext=heatmap)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dZ9QEk44Re?theme=nord&font=Caveat%20Brush&ext=heatmap)
--->
-<p align="center">
-  <img width="830" src="https://leetcard.jacoblin.cool/manishxuranium?theme=nord&font=Caveat%20Brush&ext=heatmap" height="260"/>
-</p>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adarsh3321&icon=0&color=0)](https://visitcount.itsvg.in)
