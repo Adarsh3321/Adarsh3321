@@ -16,9 +16,9 @@
 
 ## 📈Leetcode Stats
 <!--
-![](https://leetcard.jacoblin.cool/manishxuranium?ext=heatmap)
-![LeetCode Stats](https://leetcard.jacoblin.cool/manishxuranium?theme=wtf&font=Caveat%20Brush&ext=heatmap)
-![LeetCode Stats](https://leetcard.jacoblin.cool/manishxuranium?theme=nord&font=Caveat%20Brush&ext=heatmap)
+![](https://leetcard.jacoblin.cool/dZ9QEk44Re?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dZ9QEk44Re?theme=wtf&font=Caveat%20Brush&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dZ9QEk44Re?theme=nord&font=Caveat%20Brush&ext=heatmap)
 -->
 <p align="center">
   <img width="830" src="https://leetcard.jacoblin.cool/manishxuranium?theme=nord&font=Caveat%20Brush&ext=heatmap" height="260"/>
